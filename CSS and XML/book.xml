@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="catalog.css"?>
+<CATALOG>
+	<BOOK>
+		<TITLE>Database System</TITLE>
+		<AUTHOR>Ankit</AUTHOR>
+		<PRICE>5000</PRICE>
+		<YEAR>1785</YEAR>
+	</BOOK>
+
+	<BOOK>
+		<TITLE>Networking</TITLE>
+		<AUTHOR>Teena</AUTHOR>
+		<PRICE>6004</PRICE>
+		<YEAR>1987</YEAR>
+	</BOOK>
+
+	<BOOK>
+		<TITLE>Software Management</TITLE>
+		<AUTHOR>Russel</AUTHOR>
+		<PRICE>6040</PRICE>
+		<YEAR>1995</YEAR>
+	</BOOK>
+</CATALOG>
